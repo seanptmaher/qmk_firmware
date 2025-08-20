@@ -1,7 +1,5 @@
 # koda
 
-![koda](imgur.com image replace me!)
-
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [odd-rocket](https://github.com/odd-rocket)
